@@ -40,3 +40,4 @@
 -	Использовать файлы book.h, book.cpp, library.h, library.cpp, writer.h, writer.cpp и main.cpp
 -	Обеспечить корректную работу программы и обработку ошибок
 
+## Реализация
